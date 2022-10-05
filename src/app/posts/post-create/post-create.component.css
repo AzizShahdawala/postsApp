@@ -1,0 +1,8 @@
+mat-form-field,
+textarea {
+    width: 100%;
+}
+
+.submitBtn {
+    margin-top: 1rem;
+}
